@@ -1,3 +1,3 @@
 function sumTwoNumbers() {
-    // Write your code here
+    return a + b;
 }
